@@ -1,0 +1,6 @@
+import = ["~/.config/alacritty/fonts.toml", "~/.config/alacritty/theme.toml"]
+[cursor]
+thickness = 0.26
+
+
+
